@@ -1,788 +1,600 @@
 {
   "employees": [
     {
-      "id": "72fb1761-bf4a-4ba7-8cd8-bb694522c2f3",
-      "department": "Development",
-      "fullName": "Christopher Stracke",
-      "avatar": "https://avatars.githubusercontent.com/u/92066415",
-      "salary": 20000,
-      "birthDate": "1977-06-05"
-    },
-    {
-      "id": "2f10763f-d689-4013-8e80-7a9f52ef438f",
-      "department": "Accounting",
-      "fullName": "Bernice Konopelski",
-      "avatar": "https://avatars.githubusercontent.com/u/95779466",
-      "salary": 21000,
-      "birthDate": "1984-03-16"
-    },
-    {
-      "id": "491035f5-b9ed-4db6-8084-8ecdc63aec35",
-      "department": "Management",
-      "fullName": "Beatrice Hane",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/91.jpg",
-      "salary": 40000,
-      "birthDate": "1958-02-15"
-    },
-    {
-      "id": "7af98680-6b75-478b-9929-dd881cdaa986",
-      "department": "QA",
-      "fullName": "Mr. Bob Borer",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/35.jpg",
-      "salary": 42100,
-      "birthDate": "2003-11-27"
-    },
-    {
-      "id": "fde47aaa-95af-4386-a2e2-37f97e5f2568",
-      "department": "Accounting",
-      "fullName": "Jimmie Fadel",
-      "avatar": "https://avatars.githubusercontent.com/u/46235329",
-      "salary": 39800,
-      "birthDate": "2001-08-26"
-    },
-    {
-      "id": "c88a6e2c-2741-4357-80b1-b3e52db9275e",
-      "department": "Development",
-      "fullName": "Don Hettinger",
-      "avatar": "https://avatars.githubusercontent.com/u/26233744",
-      "salary": 7700,
-      "birthDate": "1993-02-21"
-    },
-    {
-      "id": "03ad477f-1d52-4fe4-b024-105443f9acb5",
-      "department": "Accounting",
-      "fullName": "Alexandra Greenfelder",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/53.jpg",
-      "salary": 22500,
-      "birthDate": "1985-07-16"
-    },
-    {
-      "id": "062e648e-62bf-4195-b551-9b21d515dc9b",
-      "department": "Accounting",
-      "fullName": "Opal Schuppe",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/96.jpg",
-      "salary": 7600,
-      "birthDate": "1955-10-06"
-    },
-    {
-      "id": "14b1c535-051b-484a-b0a9-89506d200303",
-      "department": "QA",
-      "fullName": "Belinda Balistreri MD",
-      "avatar": "https://avatars.githubusercontent.com/u/58912949",
-      "salary": 31800,
-      "birthDate": "1978-10-25"
-    },
-    {
-      "id": "5fc69576-6719-40cc-a40a-3d216b0a94c8",
-      "department": "Development",
-      "fullName": "Shelia Rohan",
-      "avatar": "https://avatars.githubusercontent.com/u/83555387",
-      "salary": 11300,
-      "birthDate": "1979-08-27"
-    },
-    {
-      "id": "2502dfd1-45e5-44f0-8252-dbd3b23b7a65",
-      "department": "Management",
-      "fullName": "Wesley Kohler MD",
-      "avatar": "https://avatars.githubusercontent.com/u/88105160",
-      "salary": 16100,
-      "birthDate": "2000-09-29"
-    },
-    {
-      "id": "65b69677-1af7-4eb8-bc4d-5d2a4dfccc45",
-      "department": "Development",
-      "fullName": "Jermaine Hilll",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/77.jpg",
-      "salary": 27800,
-      "birthDate": "1986-05-22"
-    },
-    {
-      "id": "43016ce2-8e37-427f-a9ce-1aec67f586b9",
-      "department": "Accounting",
-      "fullName": "Miss Henrietta Wyman",
-      "avatar": "https://avatars.githubusercontent.com/u/68845985",
-      "salary": 18700,
-      "birthDate": "1982-06-06"
-    },
-    {
-      "id": "40c70791-bb80-4169-8e5e-968c08b8ae93",
-      "department": "Management",
-      "fullName": "Dr. Lyle Rice",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/68.jpg",
-      "salary": 19300,
-      "birthDate": "1996-01-25"
-    },
-    {
-      "id": "3558142d-12db-4da5-89ef-c373b7f94a91",
-      "department": "Accounting",
-      "fullName": "Myrtle Hilpert",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/89.jpg",
-      "salary": 48300,
-      "birthDate": "1961-02-04"
-    },
-    {
-      "id": "c7e666bf-63a0-45cd-b947-6ceb29e7a70f",
-      "department": "Accounting",
-      "fullName": "Ms. Ella Hahn",
-      "avatar": "https://avatars.githubusercontent.com/u/56790257",
-      "salary": 20800,
-      "birthDate": "2001-02-22"
-    },
-    {
-      "id": "03d21ce6-6975-4111-93cf-82f9ae58570f",
-      "department": "Development",
-      "fullName": "Brandy Ward",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/2.jpg",
-      "salary": 33700,
-      "birthDate": "1987-10-15"
-    },
-    {
-      "id": "1ef08771-308b-4276-867f-01a8196e207a",
+      "id": "a7724187-b55e-4647-8de3-8046201f8c15",
       "department": "Audit",
-      "fullName": "Calvin O'Conner",
-      "avatar": "https://avatars.githubusercontent.com/u/91487507",
-      "salary": 29600,
-      "birthDate": "1956-05-07"
+      "fullName": "Paul Keebler",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/95.jpg",
+      "salary": 18864,
+      "birthDate": "1958-01-27",
+      "userId": "ADMIN"
     },
     {
-      "id": "fc41a4ea-da88-49fc-b349-3a26fad273df",
-      "department": "Audit",
-      "fullName": "Billy Gottlieb",
-      "avatar": "https://avatars.githubusercontent.com/u/63825223",
-      "salary": 18100,
-      "birthDate": "1971-04-25"
-    },
-    {
-      "id": "9cbe247d-020e-4c7d-8f7b-5be7b37e8874",
-      "department": "Management",
-      "fullName": "Milton Roob",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/7.jpg",
-      "salary": 33800,
-      "birthDate": "1986-09-18"
-    },
-    {
-      "id": "a3f0ad6e-a004-4092-ab31-8571ff03279c",
-      "department": "QA",
-      "fullName": "Geoffrey Lemke",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/36.jpg",
-      "salary": 20400,
-      "birthDate": "1981-01-12"
-    },
-    {
-      "id": "4b7ec568-9f5c-4f04-b3aa-b429e8312bbe",
-      "department": "Development",
-      "fullName": "Crystal VonRueden Jr.",
-      "avatar": "https://avatars.githubusercontent.com/u/54994872",
-      "salary": 21200,
-      "birthDate": "1974-04-03"
-    },
-    {
-      "id": "98fbad6a-f8ec-49a6-891c-a5b7ca66058f",
-      "department": "QA",
-      "fullName": "Charles Douglas",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/96.jpg",
-      "salary": 14400,
-      "birthDate": "1971-05-20"
-    },
-    {
-      "id": "ec125e4e-0b77-45cd-aeb8-61ad06252321",
-      "department": "Management",
-      "fullName": "Pete Luettgen",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/57.jpg",
-      "salary": 39700,
-      "birthDate": "1992-09-14"
-    },
-    {
-      "id": "365b2c23-346a-47ce-9d53-1cba158c8362",
-      "department": "Management",
-      "fullName": "Miss Colleen Schimmel",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/58.jpg",
-      "salary": 21400,
-      "birthDate": "1963-06-05"
-    },
-    {
-      "id": "b43e5514-e3c8-4b2f-9ff8-8859fbf0c45d",
-      "department": "Management",
-      "fullName": "Lucille Waters",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/44.jpg",
-      "salary": 44100,
-      "birthDate": "1953-02-15"
-    },
-    {
-      "id": "4efc39c3-b282-4dc1-a2c2-853e894d3b91",
-      "department": "Audit",
-      "fullName": "Sandy Mayer",
-      "avatar": "https://avatars.githubusercontent.com/u/16504772",
-      "salary": 38600,
-      "birthDate": "1968-02-27"
-    },
-    {
-      "id": "f434a09d-254f-418b-9927-9076f73d3db9",
-      "department": "QA",
-      "fullName": "Janice Heller",
-      "avatar": "https://avatars.githubusercontent.com/u/18377502",
-      "salary": 14300,
-      "birthDate": "1954-06-15"
-    },
-    {
-      "id": "a1af3cc8-6582-44b2-b7a2-0ca242d5bc2a",
-      "department": "QA",
-      "fullName": "Arnold Schowalter",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/59.jpg",
-      "salary": 29500,
-      "birthDate": "1979-05-31"
-    },
-    {
-      "id": "e434870b-42d0-4a0d-bb10-981960fec4d2",
-      "department": "Management",
-      "fullName": "Patricia Stanton-Kub",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/51.jpg",
-      "salary": 23300,
-      "birthDate": "1960-01-27"
-    },
-    {
-      "id": "9a817ee7-e7f2-4051-bf48-8f9cd53fae75",
-      "department": "QA",
-      "fullName": "Mrs. Melissa Hills",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/49.jpg",
-      "salary": 15100,
-      "birthDate": "1954-11-02"
-    },
-    {
-      "id": "ad6841a6-f75a-4447-be78-1367e0e933b5",
-      "department": "Management",
-      "fullName": "Darrell Lebsack-Bartell",
-      "avatar": "https://avatars.githubusercontent.com/u/86893002",
-      "salary": 19000,
-      "birthDate": "1967-07-29"
-    },
-    {
-      "id": "8a77fdc4-f959-4cf5-91e8-f0c80b0929f8",
-      "department": "QA",
-      "fullName": "Elaine Kozey I",
-      "avatar": "https://avatars.githubusercontent.com/u/84507012",
-      "salary": 39700,
-      "birthDate": "1978-04-25"
-    },
-    {
-      "id": "7111e639-110f-4424-8786-ee90986a4379",
-      "department": "Development",
-      "fullName": "Thelma Herman",
-      "avatar": "https://avatars.githubusercontent.com/u/86100314",
-      "salary": 48000,
-      "birthDate": "1970-08-03"
-    },
-    {
-      "id": "203a79ef-7753-4e88-964d-2b9f2b3aad24",
-      "department": "QA",
-      "fullName": "Felix Greenholt MD",
-      "avatar": "https://avatars.githubusercontent.com/u/68521623",
-      "salary": 36400,
-      "birthDate": "2004-04-28"
-    },
-    {
-      "id": "86160347-4fe4-4f15-9d6e-2644fdb0e182",
+      "id": "9d8a2632-f64e-49fa-98aa-a7c984412cc2",
       "department": "Accounting",
-      "fullName": "Tyler Ortiz",
-      "avatar": "https://avatars.githubusercontent.com/u/94305268",
-      "salary": 5100,
-      "birthDate": "1999-10-02"
+      "fullName": "Dr. Derek Willms DVM",
+      "avatar": "https://avatars.githubusercontent.com/u/30338476",
+      "salary": 42637,
+      "birthDate": "1965-10-26",
+      "userId": "ADMIN"
     },
     {
-      "id": "a42bbc81-0d3c-47e1-a24f-1ff46873acf2",
-      "department": "QA",
-      "fullName": "Arlene Lueilwitz",
-      "avatar": "https://avatars.githubusercontent.com/u/73034291",
-      "salary": 12800,
-      "birthDate": "1959-02-01"
-    },
-    {
-      "id": "d7b1f16a-88d5-4662-85a7-c7a73ececa85",
-      "department": "QA",
-      "fullName": "Dr. Faye Thompson",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/91.jpg",
-      "salary": 23100,
-      "birthDate": "1977-03-06"
-    },
-    {
-      "id": "1050d968-e30f-4023-8690-94ca47f3c504",
+      "id": "82045051-01a1-4a55-8992-60b3057e9971",
       "department": "Management",
-      "fullName": "Dan Carter",
-      "avatar": "https://avatars.githubusercontent.com/u/83144565",
-      "salary": 13000,
-      "birthDate": "1953-06-02"
+      "fullName": "Lorenzo Wolff",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/31.jpg",
+      "salary": 12417,
+      "birthDate": "1998-01-12",
+      "userId": "ADMIN"
     },
     {
-      "id": "1237af37-0b52-4416-8b15-6eb737852084",
+      "id": "0aa15ac3-92c3-46aa-ad1e-3a69c1cb516c",
       "department": "Accounting",
-      "fullName": "Lynn Robel",
-      "avatar": "https://avatars.githubusercontent.com/u/82977068",
-      "salary": 27100,
-      "birthDate": "1996-04-05"
+      "fullName": "Jared Satterfield",
+      "avatar": "https://avatars.githubusercontent.com/u/31894276",
+      "salary": 45924,
+      "birthDate": "2003-01-21",
+      "userId": "ADMIN"
     },
     {
-      "id": "d22e4ff2-e2b6-4dc4-ad61-e18ceca803dd",
-      "department": "Management",
-      "fullName": "Bonnie Schinner",
-      "avatar": "https://avatars.githubusercontent.com/u/14073346",
-      "salary": 38900,
-      "birthDate": "1981-12-31"
+      "id": "ea48018c-e645-427f-ad2b-a83c981832f3",
+      "department": "Audit",
+      "fullName": "Eleanor Windler",
+      "avatar": "https://avatars.githubusercontent.com/u/4594637",
+      "salary": 7511,
+      "birthDate": "1955-10-31",
+      "userId": "ADMIN"
     },
     {
-      "id": "372109a2-8055-4da4-b439-ddf0ae87058a",
+      "id": "7cf9da87-c816-49fb-a012-2571700d3f3f",
       "department": "Development",
-      "fullName": "Gordon Littel",
-      "avatar": "https://avatars.githubusercontent.com/u/40143529",
-      "salary": 22700,
-      "birthDate": "1967-01-03"
+      "fullName": "Mark Cruickshank",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/82.jpg",
+      "salary": 39000,
+      "birthDate": "1980-08-14",
+      "userId": "ADMIN"
     },
     {
-      "id": "82d40cf7-6f2a-40df-87ed-b3c47772d44c",
-      "department": "Audit",
-      "fullName": "Adrian Murphy MD",
-      "avatar": "https://avatars.githubusercontent.com/u/15859106",
-      "salary": 33000,
-      "birthDate": "1974-06-10"
-    },
-    {
-      "id": "2f1966c4-3f58-408a-9a20-46dcf380f98b",
-      "department": "Audit",
-      "fullName": "Mr. Bradley Nitzsche",
-      "avatar": "https://avatars.githubusercontent.com/u/98175107",
-      "salary": 28800,
-      "birthDate": "1956-05-21"
-    },
-    {
-      "id": "d2f590c1-34ac-4dad-8a9d-aacae745e7b7",
-      "department": "Accounting",
-      "fullName": "Lela Gorczany",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/40.jpg",
-      "salary": 49800,
-      "birthDate": "1976-06-05"
-    },
-    {
-      "id": "a6fb4137-32fc-4472-9146-70fc1dcb9087",
-      "department": "Development",
-      "fullName": "Jorge Schuppe",
-      "avatar": "https://avatars.githubusercontent.com/u/94549390",
-      "salary": 25800,
-      "birthDate": "1965-01-26"
-    },
-    {
-      "id": "677374fe-b154-4794-84fb-f87a989bccf5",
-      "department": "Audit",
-      "fullName": "Zachary Kling",
-      "avatar": "https://avatars.githubusercontent.com/u/80962501",
-      "salary": 10300,
-      "birthDate": "1953-08-15"
-    },
-    {
-      "id": "d01aea15-9df2-4446-aeb9-7ef571a78223",
-      "department": "Accounting",
-      "fullName": "Sarah Mills DDS",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/53.jpg",
-      "salary": 19800,
-      "birthDate": "1995-02-13"
-    },
-    {
-      "id": "8c93fd5b-428e-40bb-9f9f-383450dfadbd",
-      "department": "Audit",
-      "fullName": "Gordon Gutkowski",
-      "avatar": "https://avatars.githubusercontent.com/u/91436215",
-      "salary": 24500,
-      "birthDate": "1985-12-08"
-    },
-    {
-      "id": "6270ef6c-a4aa-4fde-a2e9-c79999e5df2c",
-      "department": "Development",
-      "fullName": "Glenda Stiedemann",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/6.jpg",
-      "salary": 14200,
-      "birthDate": "1955-06-24"
-    },
-    {
-      "id": "90c9661c-b5de-4d06-bf64-26b7a4cbf322",
-      "department": "Audit",
-      "fullName": "Glenda Donnelly-Stiedemann",
-      "avatar": "https://avatars.githubusercontent.com/u/83946527",
-      "salary": 10900,
-      "birthDate": "1969-07-20"
-    },
-    {
-      "id": "abdf494e-ab13-4c94-a8e5-d622bb352e80",
+      "id": "ce48defa-6ac4-4969-b6e6-404e32b356f1",
       "department": "Management",
-      "fullName": "Bobbie Kohler",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/12.jpg",
-      "salary": 6000,
-      "birthDate": "1959-07-18"
+      "fullName": "Ellis Parisian",
+      "avatar": "https://avatars.githubusercontent.com/u/23726173",
+      "salary": 6205,
+      "birthDate": "1998-11-18",
+      "userId": "ADMIN"
     },
     {
-      "id": "68698a22-8cfb-4fbd-ab9d-8abb4c7d48cc",
+      "id": "75f1480e-3a6c-49c6-9094-86297455e5be",
       "department": "Management",
-      "fullName": "Johanna Thompson",
-      "avatar": "https://avatars.githubusercontent.com/u/46523359",
-      "salary": 43500,
-      "birthDate": "1999-01-21"
-    },
-    {
-      "id": "6ce732d5-783c-4592-8a87-ef420102de77",
-      "department": "Development",
-      "fullName": "Alonzo Veum",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/85.jpg",
-      "salary": 21500,
-      "birthDate": "1976-10-30"
-    },
-    {
-      "id": "1cbd8523-a166-4f41-ad0b-7bc9dd8436fd",
-      "department": "Audit",
-      "fullName": "Casey Steuber",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/47.jpg",
-      "salary": 20900,
-      "birthDate": "2004-02-25"
-    },
-    {
-      "id": "ca76f6ce-1e64-4b8b-8ceb-b7ac4876abd7",
-      "department": "Development",
-      "fullName": "Johnathan Feil",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/90.jpg",
-      "salary": 5900,
-      "birthDate": "1978-06-27"
-    },
-    {
-      "id": "8149b70b-3d8f-4a99-9608-2002e88fb738",
-      "department": "Management",
-      "fullName": "Rafael Smitham-Prosacco",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/81.jpg",
-      "salary": 37800,
-      "birthDate": "1956-11-30"
-    },
-    {
-      "id": "3bf57ff8-c9e3-40b5-9c24-fa1bdab992ef",
-      "department": "Management",
-      "fullName": "Beverly Lueilwitz",
-      "avatar": "https://avatars.githubusercontent.com/u/50881117",
-      "salary": 12300,
-      "birthDate": "1956-04-25"
-    },
-    {
-      "id": "9562e872-db44-49a0-b067-bbb73e5b06ed",
-      "department": "Accounting",
-      "fullName": "Natalie Harris",
-      "avatar": "https://avatars.githubusercontent.com/u/12905024",
-      "salary": 22200,
-      "birthDate": "1974-05-25"
-    },
-    {
-      "id": "0b8fb40f-e942-450a-b31d-e47162a9b94d",
-      "department": "Management",
-      "fullName": "Merle Steuber",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/33.jpg",
-      "salary": 48200,
-      "birthDate": "1997-03-22"
-    },
-    {
-      "id": "5ab3ad77-cf3f-4358-9e4a-b224df4f88f7",
-      "department": "Management",
-      "fullName": "Tommy Durgan DVM",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/25.jpg",
-      "salary": 7800,
-      "birthDate": "1980-07-10"
-    },
-    {
-      "id": "75681d86-f4cd-4539-a5d4-c96a8b4f7513",
-      "department": "Development",
-      "fullName": "Heidi Friesen",
-      "avatar": "https://avatars.githubusercontent.com/u/97462518",
-      "salary": 14700,
-      "birthDate": "1969-03-21"
-    },
-    {
-      "id": "1868c663-db15-44dc-8386-ebf757bf30cf",
-      "department": "Development",
-      "fullName": "Angelina Rau",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/47.jpg",
-      "salary": 41000,
-      "birthDate": "1975-02-02"
-    },
-    {
-      "id": "602389b7-c8e1-48f8-94b1-81b51bdcf9f0",
-      "department": "Audit",
-      "fullName": "Dr. Constance Pouros-McKenzie",
-      "avatar": "https://avatars.githubusercontent.com/u/28346539",
-      "salary": 16100,
-      "birthDate": "1977-11-21"
-    },
-    {
-      "id": "6378cda4-9323-46c7-8a41-9ea347f1c46a",
-      "department": "Audit",
-      "fullName": "Kara Koelpin",
-      "avatar": "https://avatars.githubusercontent.com/u/20298335",
-      "salary": 17200,
-      "birthDate": "1967-11-24"
-    },
-    {
-      "id": "df444dcf-e7f0-4b6e-a6e3-c519f73a71cc",
-      "department": "Audit",
-      "fullName": "Roberto Fahey II",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/9.jpg",
-      "salary": 42300,
-      "birthDate": "1984-06-22"
-    },
-    {
-      "id": "a13b4318-b56a-4b5a-9c3f-b3c00d323133",
-      "department": "QA",
-      "fullName": "Candace Batz",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/33.jpg",
-      "salary": 40200,
-      "birthDate": "1954-02-12"
-    },
-    {
-      "id": "fd24a508-23c1-4e22-9b90-fadbf4c2a2a7",
-      "department": "Audit",
-      "fullName": "Opal Kling DDS",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/17.jpg",
-      "salary": 6600,
-      "birthDate": "1991-04-09"
-    },
-    {
-      "id": "604e6207-8b6e-476e-9fe0-3976026d1070",
-      "department": "QA",
-      "fullName": "Freddie Brekke",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/40.jpg",
-      "salary": 34800,
-      "birthDate": "2004-03-17"
-    },
-    {
-      "id": "68c5c1b5-27be-4941-9514-d772698e72b4",
-      "department": "Development",
-      "fullName": "Louis Rath",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/92.jpg",
-      "salary": 30500,
-      "birthDate": "1959-06-05"
-    },
-    {
-      "id": "3f8a86ad-eb31-43cf-879e-98a75ff4ce68",
-      "department": "Management",
-      "fullName": "Dr. Brenda Berge",
-      "avatar": "https://avatars.githubusercontent.com/u/72610174",
-      "salary": 31000,
-      "birthDate": "2005-02-14"
-    },
-    {
-      "id": "2fb8b8a0-1af3-429d-948b-1ff63739a8eb",
-      "department": "Audit",
-      "fullName": "Cornelius Swift",
-      "avatar": "https://avatars.githubusercontent.com/u/48379638",
-      "salary": 43400,
-      "birthDate": "1961-01-09"
-    },
-    {
-      "id": "d7e4f753-ad62-4c34-ac5d-099e71a99c33",
-      "department": "QA",
-      "fullName": "Frederick Veum-McCullough",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/66.jpg",
-      "salary": 7700,
-      "birthDate": "1985-12-10"
-    },
-    {
-      "id": "875c403c-1c8c-42ff-a6c1-9b03f5fc05f0",
-      "department": "QA",
-      "fullName": "Crystal Boyer",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/45.jpg",
-      "salary": 35000,
-      "birthDate": "1957-10-12"
-    },
-    {
-      "id": "ecca7958-0629-4b72-b7b6-c7c4ffb4020f",
-      "department": "Audit",
-      "fullName": "Sonya Tillman",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/2.jpg",
-      "salary": 8100,
-      "birthDate": "1981-08-26"
-    },
-    {
-      "id": "965d9e93-a19b-4a68-8ff4-2c1a7d76d90a",
-      "department": "QA",
-      "fullName": "Megan Hickle",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/48.jpg",
-      "salary": 27200,
-      "birthDate": "1983-05-29"
-    },
-    {
-      "id": "509af45c-e1d8-444f-a42d-541ecff46ec9",
-      "department": "Audit",
-      "fullName": "Johnathan Russel II",
-      "avatar": "https://avatars.githubusercontent.com/u/11153726",
-      "salary": 19100,
-      "birthDate": "1970-07-10"
-    },
-    {
-      "id": "bfd407c1-caf0-4f59-9086-3511065107c9",
-      "department": "QA",
-      "fullName": "Dr. Grady Durgan",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/2.jpg",
-      "salary": 38200,
-      "birthDate": "1952-06-26"
-    },
-    {
-      "id": "863be257-8010-486b-92e2-e19a7f366c67",
-      "department": "Accounting",
-      "fullName": "Jenna Murazik",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/90.jpg",
-      "salary": 37400,
-      "birthDate": "1953-08-22"
-    },
-    {
-      "id": "2a239530-a00c-4899-a2d4-0e0360b4e7b0",
-      "department": "Management",
-      "fullName": "Tasha Gulgowski IV",
-      "avatar": "https://avatars.githubusercontent.com/u/23472518",
-      "salary": 10400,
-      "birthDate": "1990-06-15"
-    },
-    {
-      "id": "c8692f51-dfed-4f6c-98f9-60e7bf9300f5",
-      "department": "Accounting",
-      "fullName": "Miss Martha Friesen",
-      "avatar": "https://avatars.githubusercontent.com/u/51448218",
-      "salary": 9400,
-      "birthDate": "1993-02-28"
-    },
-    {
-      "id": "a797e300-9990-4086-909c-d9adae5ce03a",
-      "department": "Management",
-      "fullName": "Miss Patty Stanton",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/45.jpg",
-      "salary": 48800,
-      "birthDate": "1999-01-04"
-    },
-    {
-      "id": "fb4a0e63-7e9f-4fc7-9e18-610f8bbac2a5",
-      "department": "Accounting",
-      "fullName": "Lonnie Corwin",
-      "avatar": "https://avatars.githubusercontent.com/u/10038806",
-      "salary": 49600,
-      "birthDate": "1957-11-02"
-    },
-    {
-      "id": "6a6de223-56b5-4b78-ab73-8e5bb7a00ed6",
-      "department": "Accounting",
-      "fullName": "Dianne Purdy",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/4.jpg",
-      "salary": 14700,
-      "birthDate": "1991-06-13"
-    },
-    {
-      "id": "bf4bf3a8-6398-4a5e-b635-950c9e32434f",
-      "department": "Accounting",
-      "fullName": "Dominick Bernhard",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/10.jpg",
-      "salary": 38300,
-      "birthDate": "1961-06-16"
-    },
-    {
-      "id": "1aa6d655-4739-414e-9c2b-a3dddf706eb3",
-      "department": "Development",
-      "fullName": "Regina Windler",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/71.jpg",
-      "salary": 18500,
-      "birthDate": "1952-09-14"
-    },
-    {
-      "id": "d66179e6-87e1-4858-adc6-6ad09229af45",
-      "department": "QA",
-      "fullName": "Cathy Williamson",
+      "fullName": "Mrs. Joyce Brekke",
       "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/56.jpg",
-      "salary": 24400,
-      "birthDate": "1982-12-06"
+      "salary": 45508,
+      "birthDate": "1987-12-29",
+      "userId": "ADMIN"
     },
     {
-      "id": "299907a1-10ce-4336-977f-b93bbf255eaa",
-      "department": "Development",
-      "fullName": "Joy Walker",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/34.jpg",
-      "salary": 32300,
-      "birthDate": "1984-04-13"
-    },
-    {
-      "id": "d6bc9b03-1005-46c2-91d5-9c4459247243",
-      "department": "Development",
-      "fullName": "Joey Beer",
-      "avatar": "https://avatars.githubusercontent.com/u/98448665",
-      "salary": 42000,
-      "birthDate": "1985-01-09"
-    },
-    {
-      "id": "7e8b3f8c-6fe5-437c-8a09-7b0d400cbb44",
+      "id": "753faea1-8a0e-4200-b712-b53d46107eab",
       "department": "Accounting",
-      "fullName": "Michelle Feeney",
-      "avatar": "https://avatars.githubusercontent.com/u/32199491",
-      "salary": 44300,
-      "birthDate": "1967-07-03"
+      "fullName": "Kelley Hilpert",
+      "avatar": "https://avatars.githubusercontent.com/u/88312949",
+      "salary": 34397,
+      "birthDate": "1974-12-30",
+      "userId": "ADMIN"
     },
     {
-      "id": "de256175-0209-4b62-83e7-11679f0ddcf9",
-      "department": "Development",
-      "fullName": "Guillermo Parisian",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/32.jpg",
-      "salary": 47900,
-      "birthDate": "1993-09-25"
-    },
-    {
-      "id": "7986fcc2-cfdf-467f-a3c8-c7cc383dde05",
-      "department": "Management",
-      "fullName": "Kristopher Hane",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/73.jpg",
-      "salary": 22300,
-      "birthDate": "1998-12-26"
-    },
-    {
-      "id": "96ef0e14-0669-44b0-bddd-88e9d78092ec",
-      "department": "Management",
-      "fullName": "Antoinette Wisoky",
-      "avatar": "https://avatars.githubusercontent.com/u/20863963",
-      "salary": 42400,
-      "birthDate": "2004-01-31"
-    },
-    {
-      "id": "b656219e-e95d-4034-9555-93668278d883",
-      "department": "QA",
-      "fullName": "Emily Collier",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/96.jpg",
-      "salary": 6100,
-      "birthDate": "1974-03-16"
-    },
-    {
-      "id": "cc271728-5b3a-405a-be1c-d69818166f97",
+      "id": "ac2f07b0-131b-4d62-a8c0-7d6f60f51614",
       "department": "Audit",
-      "fullName": "Beatrice Dibbert",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/59.jpg",
-      "salary": 19000,
-      "birthDate": "1971-06-04"
+      "fullName": "Edgar Casper",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/41.jpg",
+      "salary": 13902,
+      "birthDate": "1990-05-08",
+      "userId": "ADMIN"
     },
     {
-      "id": "346e6012-65c4-459f-92cb-b62c37aefd64",
+      "id": "3f0bd9e9-48dd-41a4-b37c-12f7c193676d",
+      "department": "Accounting",
+      "fullName": "Dale Romaguera II",
+      "avatar": "https://avatars.githubusercontent.com/u/71857884",
+      "salary": 7996,
+      "birthDate": "1993-12-29",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "bbdf812d-3e92-4764-9c57-0efd4bfb8943",
+      "department": "Development",
+      "fullName": "Celia Beier",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/94.jpg",
+      "salary": 28500,
+      "birthDate": "1978-05-23",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "9d5c57f4-4533-4831-bace-aa29aab74a5d",
       "department": "Management",
-      "fullName": "Madeline Kertzmann",
-      "avatar": "https://avatars.githubusercontent.com/u/60971734",
-      "salary": 6600,
-      "birthDate": "1978-04-12"
+      "fullName": "Mrs. Laura Greenholt",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/6.jpg",
+      "salary": 48204,
+      "birthDate": "1986-02-27",
+      "userId": "ADMIN"
     },
     {
-      "id": "60c5da77-1d75-46a4-b4c0-1bc92c99bc54",
+      "id": "101953bf-aae8-4775-ae62-069c1aa5658c",
       "department": "QA",
-      "fullName": "Candice Heller",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/68.jpg",
-      "salary": 15200,
-      "birthDate": "1993-09-17"
+      "fullName": "Irvin Mante",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/11.jpg",
+      "salary": 31510,
+      "birthDate": "1986-11-30",
+      "userId": "ADMIN"
     },
     {
-      "id": "24975afc-caf0-42bf-9812-a6401b945f88",
+      "id": "1e500c48-eac6-4ac5-9d60-1b2fecc0d389",
       "department": "Management",
-      "fullName": "Ana Bergstrom",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/91.jpg",
-      "salary": 32200,
-      "birthDate": "1961-06-24"
+      "fullName": "Bonnie Bechtelar",
+      "avatar": "https://avatars.githubusercontent.com/u/30370840",
+      "salary": 45200,
+      "birthDate": "1992-10-04",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "d2b8fa87-3b36-45d8-891a-cdcd2733cdfd",
+      "department": "QA",
+      "fullName": "Lisa Nicolas",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/2.jpg",
+      "salary": 47900,
+      "birthDate": "1987-04-24",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "e6606219-f607-4db7-893a-4759093e4ba7",
+      "department": "Accounting",
+      "fullName": "Zachary Rippin",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/77.jpg",
+      "salary": 28097,
+      "birthDate": "1964-01-22",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "77be52cd-3a00-4a6f-bcf5-48b93ef4fc64",
+      "department": "Management",
+      "fullName": "Clint Mueller",
+      "avatar": "https://avatars.githubusercontent.com/u/96777876",
+      "salary": 25200,
+      "birthDate": "1976-06-09",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "47a0c7bd-79f5-449c-965d-51695508dcf6",
+      "department": "QA",
+      "fullName": "Ashley Bauch",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/79.jpg",
+      "salary": 46800,
+      "birthDate": "1981-08-04",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "00871bc0-2852-40c4-aa04-50449697de0c",
+      "department": "Development",
+      "fullName": "Mr. Carlos Smith-Buckridge Sr.",
+      "avatar": "https://avatars.githubusercontent.com/u/98726137",
+      "salary": 14600,
+      "birthDate": "1973-12-26",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "fa388a0f-f067-4a9e-969f-b3b9eb7df15b",
+      "department": "Development",
+      "fullName": "Shane Hilll-Rau",
+      "avatar": "https://avatars.githubusercontent.com/u/83485541",
+      "salary": 26600,
+      "birthDate": "1987-12-06",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "a281d750-96e5-4935-8d22-6c9302cba504",
+      "department": "QA",
+      "fullName": "Wilma Watsica",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/79.jpg",
+      "salary": 43501,
+      "birthDate": "2005-05-20",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "8225e066-c999-4131-b61d-0049932f4de5",
+      "department": "Audit",
+      "fullName": "Antonia Quitzon",
+      "avatar": "https://avatars.githubusercontent.com/u/94489619",
+      "salary": 8506,
+      "birthDate": "1962-11-23",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "5b29242c-cce3-4488-8877-6d335f57886d",
+      "department": "Development",
+      "fullName": "Joy Hettinger",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/71.jpg",
+      "salary": 41900,
+      "birthDate": "1970-08-12",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "e9718788-39c5-43a1-bbe5-c15cde84baae",
+      "department": "Accounting",
+      "fullName": "Olga Schroeder",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/82.jpg",
+      "salary": 14396,
+      "birthDate": "1992-09-16",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "a37e000c-24db-41e0-bedb-7725d4064fc1",
+      "department": "Development",
+      "fullName": "Eddie Dietrich",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/85.jpg",
+      "salary": 11800,
+      "birthDate": "1958-10-19",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "e2fbab07-a6f4-4e97-ae61-edc956756d26",
+      "department": "QA",
+      "fullName": "Miss Catherine Quitzon",
+      "avatar": "https://avatars.githubusercontent.com/u/53956662",
+      "salary": 26400,
+      "birthDate": "1976-03-04",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "856833db-2355-412f-95fa-a93dddf26d39",
+      "department": "Management",
+      "fullName": "Ms. Diane Kunze",
+      "avatar": "https://avatars.githubusercontent.com/u/86103546",
+      "salary": 34400,
+      "birthDate": "1981-12-26",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "4066adf6-5f2a-480e-b1a3-f442cc9e8320",
+      "department": "Management",
+      "fullName": "Orlando Wilkinson",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/13.jpg",
+      "salary": 46500,
+      "birthDate": "1955-03-13",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "a434ec95-da54-477e-9a39-a48fb5f14f56",
+      "department": "QA",
+      "fullName": "Jaime Smith DDS",
+      "avatar": "https://avatars.githubusercontent.com/u/20791700",
+      "salary": 25100,
+      "birthDate": "1953-11-10",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "935e9916-6034-44b9-9457-a03d1bbf722c",
+      "department": "QA",
+      "fullName": "Taylor Bailey",
+      "avatar": "https://avatars.githubusercontent.com/u/13824613",
+      "salary": 24597,
+      "birthDate": "1995-07-30",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "145639a4-72bd-44bd-8761-9e72bbbdc232",
+      "department": "Development",
+      "fullName": "Jennie Ratke",
+      "avatar": "https://avatars.githubusercontent.com/u/75673347",
+      "salary": 19801,
+      "birthDate": "1966-02-06",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "bcad9cbb-0d1b-4cbe-8668-ce072fd23ea7",
+      "department": "Development",
+      "fullName": "Tonya Ernser",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/95.jpg",
+      "salary": 28903,
+      "birthDate": "1962-02-16",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "567c230e-d87e-462b-b86a-e51f2b71e2d3",
+      "department": "QA",
+      "fullName": "Alberto Stehr",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/38.jpg",
+      "salary": 28400,
+      "birthDate": "1994-03-01",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "3e41c1e9-fd3c-491a-8ce4-198dd6f1a699",
+      "department": "Management",
+      "fullName": "Olga Lesch",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/77.jpg",
+      "salary": 8100,
+      "birthDate": "1994-12-13",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "10f27b87-fc59-4011-b69e-f29b4d87b1cd",
+      "department": "QA",
+      "fullName": "Joyce Aufderhar",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/65.jpg",
+      "salary": 16395,
+      "birthDate": "1994-06-23",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "b1c33e3c-f236-4f62-aa4c-55aab46d2f4d",
+      "department": "Development",
+      "fullName": "Lowell Murazik",
+      "avatar": "https://avatars.githubusercontent.com/u/83287574",
+      "salary": 9900,
+      "birthDate": "1981-08-08",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "6dc7f82a-432f-4a6e-b281-ab2537c17e6c",
+      "department": "QA",
+      "fullName": "Ed Murphy",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/27.jpg",
+      "salary": 7696,
+      "birthDate": "1952-09-04",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "23e44d33-efa1-4c40-a218-e24129ff298a",
+      "department": "Development",
+      "fullName": "Roberta Schuppe",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/76.jpg",
+      "salary": 22198,
+      "birthDate": "1955-01-03",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "82082076-0b4d-4bf8-9aaa-a4dfe764cca5",
+      "department": "Management",
+      "fullName": "Dana Stracke",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/53.jpg",
+      "salary": 37900,
+      "birthDate": "1963-03-19",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "bab5bd66-5b20-4132-9c5f-336fcf6097b7",
+      "department": "Development",
+      "fullName": "Sarah Yundt",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/33.jpg",
+      "salary": 44100,
+      "birthDate": "1982-05-23",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "c7e5e535-0111-4f17-a5fd-413d3ef1fccf",
+      "department": "Accounting",
+      "fullName": "Ray Waters",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/63.jpg",
+      "salary": 24500,
+      "birthDate": "1997-12-20",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "16ec8b92-ef7d-4dee-b382-e77a22641ad4",
+      "department": "Development",
+      "fullName": "Regina Kuhlman",
+      "avatar": "https://avatars.githubusercontent.com/u/18158649",
+      "salary": 43800,
+      "birthDate": "1956-02-25",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "6a28e8e7-67b6-46df-979c-893a23d57995",
+      "department": "Accounting",
+      "fullName": "Cecelia Feil",
+      "avatar": "https://avatars.githubusercontent.com/u/27391829",
+      "salary": 27100,
+      "birthDate": "1970-10-16",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "b9e00543-ead9-47ba-992b-ced2c6004168",
+      "department": "QA",
+      "fullName": "Paula West",
+      "avatar": "https://avatars.githubusercontent.com/u/77655706",
+      "salary": 39000,
+      "birthDate": "2002-01-13",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "36bb4d6f-85cb-4040-ba31-957183611464",
+      "department": "Management",
+      "fullName": "Ismael Sawayn",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/90.jpg",
+      "salary": 32600,
+      "birthDate": "1995-11-28",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "47ee33fe-13fa-4e88-a3a0-696ddb27eaab",
+      "department": "Accounting",
+      "fullName": "Roxanne Connelly",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/43.jpg",
+      "salary": 23900,
+      "birthDate": "1957-11-13",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "d799c856-4b54-467d-bac0-4a8f7b3cd3f2",
+      "department": "QA",
+      "fullName": "Nicole Fahey I",
+      "avatar": "https://avatars.githubusercontent.com/u/22788747",
+      "salary": 42400,
+      "birthDate": "1963-04-30",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "1dcb4179-5762-47d2-967e-238c6410f8fb",
+      "department": "Management",
+      "fullName": "Melody Kris",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/46.jpg",
+      "salary": 16900,
+      "birthDate": "1961-01-24",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "007c1d1a-da96-4cfd-bbe5-23de697fa029",
+      "department": "QA",
+      "fullName": "Harold Bogisich",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/44.jpg",
+      "salary": 38700,
+      "birthDate": "1956-11-27",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "a15aae73-48ca-4430-98f6-93de6f7b11af",
+      "department": "Accounting",
+      "fullName": "Russell Schumm",
+      "avatar": "https://avatars.githubusercontent.com/u/3109634",
+      "salary": 23600,
+      "birthDate": "1958-02-06",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "c6571189-4d6a-409d-a66e-fa104161dcc9",
+      "department": "Accounting",
+      "fullName": "Marshall Wunsch IV",
+      "avatar": "https://avatars.githubusercontent.com/u/32018184",
+      "salary": 31595,
+      "birthDate": "1989-10-04",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "f8300021-1ab2-41e7-bb56-bf805f85a040",
+      "department": "Management",
+      "fullName": "Pam Quigley II",
+      "avatar": "https://avatars.githubusercontent.com/u/98967475",
+      "salary": 47000,
+      "birthDate": "1981-11-10",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "0fbf0b38-eb95-4943-8b6b-fc765129c713",
+      "department": "QA",
+      "fullName": "Roy Reinger-Jerde",
+      "avatar": "https://avatars.githubusercontent.com/u/64972638",
+      "salary": 42100,
+      "birthDate": "1991-08-05",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "e4aa195c-7ea8-4979-8356-93c83f39694d",
+      "department": "Accounting",
+      "fullName": "Levi Brekke",
+      "avatar": "https://avatars.githubusercontent.com/u/34692324",
+      "salary": 6500,
+      "birthDate": "1994-12-10",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "f43d36df-bbf4-49a5-8dd4-18943b05abb9",
+      "department": "Accounting",
+      "fullName": "Dr. Darryl McLaughlin",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/33.jpg",
+      "salary": 46400,
+      "birthDate": "1975-05-18",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "0b2e7011-a73f-41ea-9a1a-42a0de980474",
+      "department": "Management",
+      "fullName": "Sylvia Morar",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/72.jpg",
+      "salary": 14806,
+      "birthDate": "1954-06-17",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "ed4d786a-90e5-4d6e-84c7-bed87c7581b8",
+      "department": "Accounting",
+      "fullName": "Denise Kutch",
+      "avatar": "https://avatars.githubusercontent.com/u/80282035",
+      "salary": 9500,
+      "birthDate": "1962-11-14",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "7ce9779d-eaef-4c41-9173-9445fcca3590",
+      "department": "Accounting",
+      "fullName": "Teri Schiller",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/42.jpg",
+      "salary": 21800,
+      "birthDate": "1953-12-16",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "c1312d8e-3a09-46c5-9fe5-3110c10b3e89",
+      "department": "Accounting",
+      "fullName": "Dr. Tabitha Zemlak",
+      "avatar": "https://avatars.githubusercontent.com/u/55866137",
+      "salary": 7800,
+      "birthDate": "1970-05-06",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "cebbf140-b7f3-453a-ac2c-a4b45d9489af",
+      "department": "Accounting",
+      "fullName": "Mildred Walter",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/61.jpg",
+      "salary": 38900,
+      "birthDate": "1993-09-20",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "608eef44-b774-4ab4-8531-379e4c9ddfd3",
+      "department": "QA",
+      "fullName": "Rudolph Lockman",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/42.jpg",
+      "salary": 47000,
+      "birthDate": "1958-01-28",
+      "userId": "ADMIN"
+    }
+  ],
+  "users": [
+    {
+      "id": "ADMIN",
+      "email": "admin@domain.com",
+      "password": "$2y$10$4YN3puAZxkXwDSUv2JiZ7OytV4rdE5ir.Nym1EDw7Zf29HCcJEWki"
+    },
+    {
+      "id": "USER",
+      "email": "user@domain.com",
+      "password": "$2y$10$BvkIIc34A/q8sGsV4TLfSuWB61zA5dHY0SrBzQJfziCNKR3MsPcGS"
+    },
+    {
+      "email": "user@example.com",
+      "password": "$2a$10$cgNQ.1ewnxACSeGI0Wyi4Ogh1ptUFrDX64/UZ2xuSdhmOOUWkVhTi",
+      "id": 1,
+      "name": "John Doe"
+    },
+    {
+      "email": "user@example1.com",
+      "password": "$2a$10$wQoKcs7f9.DnKJ//TA98SeeykhV2Vz6OL.u4e4m0KUlqQbKr11XCy",
+      "id": "lX5ufwG"
+    },
+    {
+      "email": "qqq@dom.com",
+      "password": "$2a$10$V.axqX4Oyez97GBirt4SwuK.wSUEfrxDSt.zMQ/D7UQHRcucz4fia",
+      "id": "ToZR8dL"
+    },
+    {
+      "email": "aaa@dom1.com",
+      "password": "$2a$10$BSMB/bR0wmspWq0Cb8FEAeNhKO1cO0ZWb.vLdwwiD8UNr5zF9UarW",
+      "id": "lgVHPfP"
+    },
+    {
+      "email": "qqqq@domain.com",
+      "password": "$2a$10$YYJVtCF4MS7io7.8l3mgouruvwnP01LbBEdS1Qvm8jqXg2JSoNW.W",
+      "id": "SDm0SQF"
     }
   ]
 }
