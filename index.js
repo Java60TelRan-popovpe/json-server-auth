@@ -1,4 +1,5 @@
 import { faker } from '@faker-js/faker'
+import axios from 'axios';
 const N_EMPLOYEES = 100;
 function createRandomEmployee() {
     const res = {};
@@ -9,6 +10,7 @@ function createRandomEmployee() {
     res.avatar = getAvatar(gender);
     res.salary = faker.number.int({min:5000, max: 49999, multipleOf:100});
     res.birthDate = faker.date.birthdate({min: 20, max: 72, mode: "age"}).toISOString().substring(0, 10);
+    res.userId="ADMIN"
     return res;
 }
 function getAvatar(gender) {
